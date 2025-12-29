@@ -3,3 +3,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 # Dataset:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+# Data Analysis
+Initial data exploration performed using SQL for filtering, aggregation, and joins.
+Further processing and modeling done in Python
